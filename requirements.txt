@@ -6,5 +6,10 @@ scikit-learn
 xgboost
 shap
 ucimlrepo
-#dice_ml
+# dice_ml
 tensorflow
+transformers
+captum
+# mecab-python3==0.996.3
+scipy
+
