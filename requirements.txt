@@ -1,1 +1,10 @@
 ipykernel
+pandas
+seaborn
+matplotlib
+scikit-learn
+xgboost
+shap
+ucimlrepo
+#dice_ml
+tensorflow
